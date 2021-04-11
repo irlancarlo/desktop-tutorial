@@ -1,0 +1,4 @@
+primeira maquina
+linha de conflito primeira maquina
+segunda linha primeira maquina
+primeira linha segunda maquina
