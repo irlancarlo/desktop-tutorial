@@ -21,6 +21,9 @@ $ git config --global core.editor caminho_completo_executavel
 Para iniciar um repositorio git 
 ```sh
 $ git init
+$ git remote add origin path.git
+// add and commit
+$ git push -u origin master
 ```
 
 Verificar se existe alguma mudança nos arquivos
